@@ -15,7 +15,7 @@ Sample Input :
 1111
 23
  */
-public class MinimumSum {
+public class MinimumCoins {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
